@@ -7,4 +7,4 @@ The SNV is a base substitution of a single nucleotide for another. It is known a
 ### bcftools
 
 ## References
-[^1]: Bioinformatics: A Practical Guide to Next Generation Sequencing Data Analysis - Hamid D. Ismail; Page 129
+[^1]: Bioinformatics: A Practical Guide to Next Generation Sequencing Data Analysis - Hamid D. Ismail; Page 110
