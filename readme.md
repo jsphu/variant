@@ -1,6 +1,6 @@
 # Variant Analysis
 ## Single-Nucleotide Variant
-It is known as single-nucleotide polymorphism(SNP) if its allelic frequency in a population is more than 1%. [^1]
+The SNV is a base substitution of a single nucleotide for another. It is known as single-nucleotide polymorphism(SNP) if its allelic frequency in a population is more than 1%. [^1]
 
 ## Tools
 ### VCF
